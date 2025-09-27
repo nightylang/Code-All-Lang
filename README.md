@@ -1,5 +1,5 @@
 #### Code-All-Lang
-All Lang
+All Lang.
 ----
 ### About me
 Name 
