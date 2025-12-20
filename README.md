@@ -9,7 +9,7 @@
 
 </p>
 
-<h4 align="center">Completed my study in Computer Science (Cybersecurity) at CUS University , Cambodia</h4>
+<h4 align="center">Completed my study in Computer Science (Cybersecurity) at CUS University</h4>
 <br />
 
 
