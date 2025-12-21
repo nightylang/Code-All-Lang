@@ -1,16 +1,18 @@
-<h2 align="center"> Hi there 👋, I'm Nighty Lang <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center"> Hi there 👋, I'm @nightylang <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/Free-Proxy"><img title="Version" src="https://img.shields.io/badge/Version-1.6.3-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/nightylang/neo.git"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/nightylang/"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
-<a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.7-red?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/nightylang"><img title="Report" src="https://img.shields.io/badge/Copyring-2024-red?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Python" src="https://img.shields.io/badge/JavaScript-1.1.0-red?style=for-the-badge&logo=javascript"></a>
+<a href="https://github.com/nightylang"><img title="Report" src="https://img.shields.io/badge/Copyring-2025-red?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/nightylang"><img title="Autor" src="https://img.shields.io/badge/Author-nightylang-blue?style=for-the-badge&logo=github"></a>
 
 </p>
 
 <h4 align="center">Completed my study in Computer Science (Cybersecurity) at CUS University</h4>
 <br />
+
+<h5><a href="https://nightylang.github.io/neo/" target="blank">Visit to Website</a></h5>
 
 
 - 💬 Love to talk about **Cybersecurity**
